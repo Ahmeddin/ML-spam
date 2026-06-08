@@ -1,0 +1,18 @@
+```text
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# Large files
+mail_data.csv
+*.docx
+
+# OS specific
+.DS_Store
